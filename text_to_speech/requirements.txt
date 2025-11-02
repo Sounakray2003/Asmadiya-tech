@@ -1,0 +1,5 @@
+TTS==0.20.6
+huggingface_hub
+soundfile
+numpy
+torch
