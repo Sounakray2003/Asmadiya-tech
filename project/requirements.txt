@@ -1,0 +1,17 @@
+ultralytics>=8.0.0
+pillow
+opencv-python
+pytesseract
+torch>=1.13
+torchvision
+torchaudio
+tqdm
+numpy
+albumentations
+mlflow
+tabulate
+scikit-learn
+jupyter
+matplotlib
+pandas
+seaborn

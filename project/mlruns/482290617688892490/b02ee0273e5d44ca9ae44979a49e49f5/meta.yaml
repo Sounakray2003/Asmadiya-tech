@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/souna/OneDrive/Desktop/LLM/project/mlruns/482290617688892490/b02ee0273e5d44ca9ae44979a49e49f5/artifacts
+end_time: 1754983487612
+entry_point_name: ''
+experiment_id: '482290617688892490'
+lifecycle_stage: active
+run_id: b02ee0273e5d44ca9ae44979a49e49f5
+run_name: threshold_sweep_1754983300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754983300422
+status: 3
+tags: []
+user_id: souna

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/souna/OneDrive/Desktop/LLM/project/mlruns/0/cfe80d608238437d8ebece42e30478fa/artifacts
+end_time: 1754977696485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfe80d608238437d8ebece42e30478fa
+run_name: YOLOv8_Evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754977617624
+status: 3
+tags: []
+user_id: souna

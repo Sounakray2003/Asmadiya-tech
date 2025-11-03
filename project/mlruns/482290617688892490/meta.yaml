@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/souna/OneDrive/Desktop/LLM/project/mlruns/482290617688892490
+creation_time: 1754983300413
+experiment_id: '482290617688892490'
+last_update_time: 1754983300413
+lifecycle_stage: active
+name: yolo_threshold_sweep
